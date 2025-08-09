@@ -9,3 +9,4 @@ hydra-core==1.1.0
 spacy
 timm
 lmdb
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
